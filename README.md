@@ -17,8 +17,11 @@
  ```                                                             
 
 
+# What is the Pomodoro Technique?
+Essentially, the Pomodoro Technique is a tool for focus; you set a timer for the period for which you intend to work followed by a shorter timer for the much needed rest period. You repeat this timer duo until the work is done! Typically, this is done in 25 minute (work) and 5 minute (rest) intervals, but can be modified to any number of combinations.
+
 # Flowst
-Flowst is a CLI tool for the Pomodoro Technique, built in Rust. It provides a user-friendly text-based interface for managing work and rest intervals, allowing you to stay focused and productive.
+Flowst is a command line interface tool for the Pomodoro Technique, built in Rust. It provides a user-friendly text-based interface for managing work and rest intervals, allowing you to stay focused and productive. Using Flowst, you can adjust custom intervals for work and rest and repeat them as many times as you want, from the convenience of the command line! 
 
 <img width="863" alt="image" src="https://github.com/ben-toker/flowst/assets/117331544/9414b955-e884-4b3c-a586-f1181bd73fd5">
 
