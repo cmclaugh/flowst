@@ -25,3 +25,7 @@ webbrowser = "0.8.11"
 [[bin]]
 path = "src/main.rs"
 name = "flowst"
+
+[package.metadata.bundle]
+name = "Flowst"
+version = "1.0.0"

@@ -11,7 +11,7 @@ pub fn play_bell_sound() {
         }
     };
 
-    let file = match File::open("bellsound.mp3") {
+    let file = match File::open("../bellsound.mp3") {
         Ok(file) => file,
         Err(_) => {
             println!("Notification sound file not found");
